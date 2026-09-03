@@ -1,2 +1,3 @@
 # ICN292-Barnils-Agustin
-Repositorio dedicado a entregas de laboratorios 
+Agustin Barnils
+ICN-292, Segundo Semestre 2026
